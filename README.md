@@ -1,5 +1,5 @@
 # BacUp.zip
-# SBootstrapThemes (https://github.com/SBootstrapThemes)
+# SBootstrapThemes [https://github.com/SBootstrapThemes]
 | Title | Link |
 | ----- | ---- |
 | mogo  | https://sbootstrapthemes.github.io/mogo/ |
